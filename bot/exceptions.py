@@ -1,0 +1,2 @@
+class EndConversationException(BaseException):
+    pass
